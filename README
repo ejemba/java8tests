@@ -1,0 +1,7 @@
+Java project containing a solution for the kata https://gist.github.com/dlresende/60b4c0240ad020a323ad .
+
+/kata/src/main/java/org/dlresende/kata/foobarqix/FooBarQix.java contains the actual code with main methods
+
+/kata/src/test/java/org/dlresende/kata/foobarqix/FooBarQixTest.java contains the unit test
+
+/kata/src/test/java/org/dlresende/kata/foobarqix/FooBarQixTest.java contains a kind of end to end test verifying all specifications
